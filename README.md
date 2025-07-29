@@ -26,8 +26,6 @@ export OpenWeatherMap__ApiKey="your_api_key"
 {
   "OpenWeatherMap": {
     "ApiKey": "your_api_key_here",
-    "Units": "metric",
-    "Language": "ru"
   }
 
 ```
