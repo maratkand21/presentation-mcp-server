@@ -1,4 +1,4 @@
-# Weather MCP Server - Тестовое задание
+# Weather MCP Server
 
 ## Установка и настройка
 
